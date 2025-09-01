@@ -1,0 +1,42 @@
+# Windows junk
+desktop.ini
+Thumbs.db
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# OS X junk (in case students use Macs)
+.DS_Store
+
+# Python virtualenvs (if anyone uses Python alongside Java)
+venv/
+__pycache__/
+
+# Java build stuff
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Node (just in case)
+node_modules/
+
+# Ignore temp files from editors
+*.swp
+*.swo
+*~
+
