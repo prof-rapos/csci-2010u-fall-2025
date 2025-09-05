@@ -67,6 +67,7 @@ public class Cheese {
     this.width /= 2;
   }
 
+  //to string
   @Override
   public String toString(){
     return this.width + " cm wide cheese";
