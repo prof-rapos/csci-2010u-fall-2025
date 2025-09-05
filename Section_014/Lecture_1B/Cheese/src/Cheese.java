@@ -1,3 +1,6 @@
+/**
+ * This is my Chesse class.
+ */
 public class Cheese {
 
   private boolean stinky;
