@@ -1,5 +1,6 @@
 /**
  * This is my Chesse class.
+ * @author Eric Rapos
  */
 public class Cheese {
 
